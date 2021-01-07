@@ -2,7 +2,10 @@
 
 Wouldn’t it be fun, if you could use your hand to control the car in a game? So, here we have proposed a computer vision concept to control the game with hand gestures by mapping gestures to the W, A, S, D keyboard keys.
 
-Tested on games like: Need for Speed, GTA 5, Blur, Spiderman. Link for video: https://drive.google.com/file/d/1Xpey_UYsxnG0eSdDodW2cWsVR_jFOMq6/view?usp=drivesdk
+Tested on games like: Need for Speed, GTA 5, Blur, Spiderman. 
+
+Link for video: https://drive.google.com/file/d/1Xpey_UYsxnG0eSdDodW2cWsVR_jFOMq6/view?usp=drivesdk
+
 The code is well commented at each step and is easy to understand and implement.
 
 ### Libraries used:
